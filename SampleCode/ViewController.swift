@@ -3,7 +3,6 @@
 //  SampleCode
 //
 //  Created by Sean Livingston on 10/6/16.
-//  Copyright © 2016 Sean Livingston. All rights reserved.
 //
 
 import UIKit
